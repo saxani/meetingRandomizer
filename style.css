@@ -1,0 +1,15 @@
+body{
+    background-color: azure;
+     font-family: "helvetica", sans-serif;
+}
+
+h1, h3{
+    color: darkslategray;
+    font-family: "times", serif;
+}
+
+#container {
+    width:70%;
+    margin: auto;  
+}
+
